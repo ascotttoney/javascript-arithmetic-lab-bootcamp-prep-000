@@ -1,7 +1,4 @@
-a = 5
-b = 10
-
-function add() {
+function add(a, b) {
   a + b
   return a + b;
 }
